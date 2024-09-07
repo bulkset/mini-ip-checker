@@ -1,0 +1,15 @@
+C:\Users\1\Documents\GitHub\mini-ip-checker\bin\Debug\net8.0\mini-ip-checker.exe
+C:\Users\1\Documents\GitHub\mini-ip-checker\bin\Debug\net8.0\mini-ip-checker.deps.json
+C:\Users\1\Documents\GitHub\mini-ip-checker\bin\Debug\net8.0\mini-ip-checker.runtimeconfig.json
+C:\Users\1\Documents\GitHub\mini-ip-checker\bin\Debug\net8.0\mini-ip-checker.dll
+C:\Users\1\Documents\GitHub\mini-ip-checker\bin\Debug\net8.0\mini-ip-checker.pdb
+C:\Users\1\Documents\GitHub\mini-ip-checker\obj\Debug\net8.0\mini-ip-checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\GitHub\mini-ip-checker\obj\Debug\net8.0\mini-ip-checker.AssemblyInfoInputs.cache
+C:\Users\1\Documents\GitHub\mini-ip-checker\obj\Debug\net8.0\mini-ip-checker.AssemblyInfo.cs
+C:\Users\1\Documents\GitHub\mini-ip-checker\obj\Debug\net8.0\mini-ip-checker.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\GitHub\mini-ip-checker\obj\Debug\net8.0\mini-ip-checker.sourcelink.json
+C:\Users\1\Documents\GitHub\mini-ip-checker\obj\Debug\net8.0\mini-ip-checker.dll
+C:\Users\1\Documents\GitHub\mini-ip-checker\obj\Debug\net8.0\refint\mini-ip-checker.dll
+C:\Users\1\Documents\GitHub\mini-ip-checker\obj\Debug\net8.0\mini-ip-checker.pdb
+C:\Users\1\Documents\GitHub\mini-ip-checker\obj\Debug\net8.0\mini-ip-checker.genruntimeconfig.cache
+C:\Users\1\Documents\GitHub\mini-ip-checker\obj\Debug\net8.0\ref\mini-ip-checker.dll
